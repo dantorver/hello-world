@@ -1,7 +1,15 @@
 # hello-world
 
-10 20 30 40
-This is jus my  first toy project on github, just to learn how to use it 
+
+This is jus my  first toy project on github
 ===
-I am just a hobby programmer
-I live in Spain
+I just want to learn how to use it 
+==
+I am  a hobby programmer, I live in Spain
+Some mark down, a list
+* uno
+* dos
+* tres
+* cuatro
+
+
